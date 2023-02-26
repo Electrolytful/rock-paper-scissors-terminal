@@ -1,4 +1,4 @@
-# Simple Rock-Paper-Scissors Game in the Terminal :scissors:
+# Simple Rock-Paper-Scissors Game in the Terminal :scissors: - forked from Electrolytful
 
 ### Start of game
 ![start of game](./img/start.PNG)
