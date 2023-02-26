@@ -1,0 +1,20 @@
+{
+  "name": "rock-paper-scissors-terminal",
+  "version": "1.0.0",
+  "description": "This is a simple Rock Paper Scissors game made using Javascript run in the terminal",
+  "main": "Game.js",
+  "scripts": {
+    "play": "node ."
+  },
+  "keywords": [],
+  "author": "Erhan Ulusal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaFosseAcademy/programming-fundamentals/issues"
+  },
+  "homepage": "https://github.com/LaFosseAcademy/programming-fundamentals#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
