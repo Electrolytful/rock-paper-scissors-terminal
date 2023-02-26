@@ -1,4 +1,4 @@
-# Simple Rock-Paper-Scissors Game in the Terminal :rock: :paper: :scissors:
+# Simple Rock-Paper-Scissors Game in the Terminal :scissors:
 
 ### Start of game
 ![start of game](./img/start.PNG)
